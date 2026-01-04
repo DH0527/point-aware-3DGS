@@ -13,12 +13,6 @@ and rendering quality in sparsely observed or geometrically structured regions.
 
 ### Environment
 
-The code has been tested with the following configuration:
-
-- Python 3.8  
-- PyTorch ≥ 1.13  
-- CUDA ≥ 11.7  
-
 We recommend using Conda for environment management.
 
 ```bash
