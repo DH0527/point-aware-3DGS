@@ -1,0 +1,8 @@
+Pillow
+opencv-python
+imageio
+matplotlib==3.7
+pyyaml
+plyfile
+kornia
+open3d
